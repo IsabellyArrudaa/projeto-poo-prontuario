@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="prontuario-database/prontuario-database/src"/>
+	<classpathentry kind="lib" path="prontuario-database/prontuario-database/lib/mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="output" path="prontuario-database/prontuario-database/bin"/>
+</classpath>
